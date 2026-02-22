@@ -1,0 +1,6 @@
+@AbobaWH_HostAddress = http://localhost:5078
+
+GET {{AbobaWH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
